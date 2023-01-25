@@ -1,12 +1,13 @@
 # SQL
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+</div>
 Базы данных всегда являлись одним из основных столпов системы взаимодействия людей. Ранее базами данных являлись картотеки и амбарные книги, в наши дни - блоки памяти со структурированной в них информацией.   
 Знание языка запросов SQL (Structured Query Language) и умение им пользоваться является важным навыком любого тестировщика.   
 
 ---
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
-В данном репозитории представлены решения задач по работе с реляционными базами данных, в которых, в том числе, применялось объединение двух и более таблиц и использовались подзапросы различной сложности.   
+В данном репозитории представлены задачи по работе с реляционными базами данных, для решения которых, в том числе, применялись объединения двух и более таблиц с подзапросами различной степени сложности.   
 
 __Содержание:__   
 - Файлы, имеющие в своём названии _HW_ - содержат решения задач по SQL на курсе Вадима Ксендзова и имеют нумерацию по мере возрастания сложности запросов. 
